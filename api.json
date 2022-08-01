@@ -1,0 +1,66 @@
+[
+  {
+      "id":"001",
+      "title":"Cartera1",
+      "categoria":"cartera",
+      "precio":5000,
+      "img":"./multimedia/cartera1.png",
+      "desc": "" 
+  },
+  {
+      "id":"002",
+      "title":"Cartera2",
+      "categoria":"cartera",
+      "precio":5500,
+      "img":"./multimedia/cartera2.png",
+      "desc": "" 
+  },
+  {
+      "id":"003",
+      "title":"Cartera3",
+      "categoria":"cartera",
+      "precio":6000,
+      "img":"./multimedia/cartera3.jpg",
+      "desc": "" 
+  },
+  {
+      "id":"004",
+      "title":"Cartera4",
+      "categoria":"cartera",
+      "precio":6500,
+      "img":"./multimedia/cartera4.jpg",
+      "desc": "" 
+  },
+  {
+      "id":"005",
+      "title":"Monederos",
+      "categoria":"monedero",
+      "precio":7000,
+      "img":"./multimedia/monederos.png",
+      "desc": "" 
+  },
+  {
+      "id":"006",
+      "title":"Neceser1",
+      "categoria":"neceser",
+      "precio":7500,
+      "img":"./multimedia/neceser1.png",
+      "desc": "" 
+  },
+  {
+      "id":"007",
+      "title":"Neceser2",
+      "categoria":"neceser",
+      "precio":8000,
+      "img":"./multimedia/neceser2.jpg",
+      "desc": "" 
+  },
+  {
+      "id":"008",
+      "title":"Neceser3",
+      "categoria":"neceser",
+      "precio":8500,
+      "img":"./multimedia/neceser3.jpg",
+      "desc": "" 
+  }
+]

@@ -1,0 +1,23 @@
+body{
+    background-color:mediumorchid
+}
+
+
+
+.containTitulo{
+  display: flex;
+  align-self: center;
+  margin-left: 400px;
+}
+
+
+.titulo{
+display: flex;
+color:black;
+align-self: center;
+
+}
+
+.logo{
+    height: 200px;
+}
